@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 💫 About Me:
-🔭 I’m currently working on Front-End Projects in React<br> 🔥Along with that learning mongodb and expressjs<br>🌱  I aspire to continue growing as a frontend developer, working on innovative projects that push the boundaries of web development.<br>
+🔭 I’m currently working on Front-End & Fullstack Projects in React<br> 🔥Along with that learning mongodb and expressjs<br>🌱  I aspire to continue growing as a frontend developer, working on innovative projects that push the boundaries of web development.<br>
 
 
 ## 🌐 Socials:
